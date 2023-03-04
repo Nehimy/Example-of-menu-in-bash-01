@@ -1,0 +1,25 @@
+
+* Menú en Bash script
+Hace un día no tenía idea sobre como hacer un menú y resulta que era tan fácil que solo tenia que enter como funcionaba un *case*.
+
+** Case
+Case nos ayuda a crear una lista de opciones donde cada opción tiene una acción ditinta.
+** Ejemplo:
+Insertamos un valor númerico que coresponda con algunas de las opciones, si la valor no se encuentra entre las opciones sale un mensaje.
+#+BEGIN_SRC shell
+read valor
+case $valor in
+	1) echo "opción 1";;
+	2) echo "opción 2";;
+	3) echo "opción 3";;
+	4) echo "opción 4";;
+	5) exit;;
+	,*) echo "Opción incorrecta";;
+esac
+#+END_SRC
+
+* Aprendiendo cositas extra
+** Atributos de bash no no conocía
+=-n=: Este parametro quita los saltos de linea.
+=-p=: Si colocamos *-p* des pues de *read* podemos introducir el valor en la misma linea.
+* Imagen
