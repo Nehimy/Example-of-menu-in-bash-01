@@ -24,4 +24,4 @@ esac
 =-p=: Si colocamos *-p* des pues de *read* podemos introducir el valor en la misma linea.
 * Imagen
 
-[[demogif]]
+[[https://imgur.com/urtPntS.png]]
