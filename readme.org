@@ -23,3 +23,13 @@ esac
 =-n=: Este parametro quita los saltos de linea.
 =-p=: Si colocamos *-p* des pues de *read* podemos introducir el valor en la misma linea.
 * Imagen
+
+<a href="https://asciinema.org/a/BXbY7w1M0ePmB9RHC1ndKSb4K" target="_blank"><img src="https://asciinema.org/a/BXbY7w1M0ePmB9RHC1ndKSb4K.svg" /></a>
+
+#+BEGIN_SRC shell
+<a href="https://asciinema.org/a/BXbY7w1M0ePmB9RHC1ndKSb4K" target="_blank"><img src="https://asciinema.org/a/BXbY7w1M0ePmB9RHC1ndKSb4K.svg" /></a>
+#+END_SRC
+
+* Vídeo
+
+<script asíncrono id="asciicast-BXbY7w1M0ePmB9RHC1ndKSb4K" src="https://asciinema.org/a/BXbY7w1M0ePmB9RHC1ndKSb4K.js"></script>
