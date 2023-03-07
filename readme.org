@@ -22,6 +22,7 @@ esac
 ** Atributos de bash no no conocía
 =-n=: Este parametro quita los saltos de linea.
 =-p=: Si colocamos *-p* des pues de *read* podemos introducir el valor en la misma linea.
-* Imagen
 
-[[https://imgur.com/urtPntS.png]]
+* Demostración
+
+[[https://imgur.com/DW2Ye6k.gif]]

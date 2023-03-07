@@ -50,7 +50,7 @@ Require echo
 
 Set FontSize 32
 Set Width 1200
-Set Height 600
+Set Height 980
 Set LoopOffset 50%
 
 Type "echo 'Welcome to my stream!'" Sleep 500ms  Enter
